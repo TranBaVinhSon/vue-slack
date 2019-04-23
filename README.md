@@ -1,4 +1,4 @@
-# slack
+# vue slack
 
 ## Project setup
 ```
